@@ -40,7 +40,7 @@ function Contact() {
   const contactInfo = [
     { icon: Phone, label: 'الهاتف', value: '+213 698 727 274', action: 'tel:+213698727274' },
     { icon: Mail, label: 'البريد الإلكتروني', value: 'arb.pubdeco@gmail.com', action: 'mailto:arb.pubdeco@gmail.com' },
-    { icon: MapPin, label: 'الموقع', value: 'ورقلة، الجزائر', action: 'https://maps.google.com?q=ورقلة' },
+    { icon: MapPin, label: 'الموقع', value: 'ورقلة', action: 'https://maps.app.goo.gl/dPvFbHZdZo73fmit6?g_st=aw' },
     { icon: Clock, label: 'ساعات العمل', value: 'السبت - الخميس: 8:00 - 20:00', action: null }
   ];
 
